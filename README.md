@@ -46,12 +46,12 @@ Detection Workflow
 
 Result Graph
 
-<img width="1035" height="518" alt="image" src="https://github.com/user-attachments/assets/33f512b7-cfe4-4ca4-8102-c832612f0ae9" />
+<img width="1035" height="518" alt="image" src="runs/detect/train/BoxPR_curve.png" />
 
 
 Model Testing
 
-<img width="729" height="344" alt="image" src="https://github.com/user-attachments/assets/460cd547-d83c-477c-a96d-4706b732079c" />
+<img width="729" height="344" alt="image" src="runs/detect/train/val_batch2_pred.jpg" />
 
 
 FastAPI Backend
