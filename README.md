@@ -54,15 +54,5 @@ Model Testing
 <img width="729" height="344" alt="image" src="runs/detect/train/val_batch2_pred.jpg" />
 
 
-FastAPI Backend
-
-<img width="591" height="375" alt="image" src="https://github.com/user-attachments/assets/82c8b4e4-dc65-455a-9b3b-f2e99e4ea8bf" />
-
-
-Predicted Result
-
-<img width="414" height="375" alt="image" src="https://github.com/user-attachments/assets/2022ea66-f2e5-4977-abac-45c1d532484a" />
-
-
 # Author: Himanshu Raj
 © 2026, All rights reserved.
